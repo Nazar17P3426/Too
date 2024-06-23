@@ -1,2 +1,2 @@
-# Too.vbs
-This is yes my first malware
+# Too
+vbs trojan by Mist32bick
